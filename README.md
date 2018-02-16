@@ -1,15 +1,5 @@
-# Athena
+Athena
+======
 The smart assistant.
 
-
-
-
-
-
-
-
-
-
-
----
-Under development by Anubhav Kashyap.
+###### Under development by Anubhav Kashyap.
